@@ -1,0 +1,3 @@
+QC1 Control          lot#TGR-105          mean=560.3          CV%=6.09
+QC2 Control          lot#TGR-205          mean=2120.0        CV%=5.01
+Pool serum control CP                      mean=501.4           CV%=8.13%
